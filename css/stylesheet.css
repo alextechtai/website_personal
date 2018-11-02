@@ -1,4 +1,7 @@
-@font-face { font-family: SFMono-Regular; src: url('SFMono-Regular.otf'); }
+@font-face {
+  font-family: SFMono-Regular;
+  src: url('fonts/SFMono-Regular.otf');
+}
 
 body {
   font-family: 'SFMono-Regular';
