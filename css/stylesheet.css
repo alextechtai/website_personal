@@ -1,6 +1,6 @@
 @font-face {
   font-family: SFMono-Regular;
-  src: url('fonts/SFMono-Regular.otf');
+  src: url('../fonts/SFMono-Regular.otf');
 }
 
 body {
@@ -129,7 +129,7 @@ header.masthead .masthead-content .masthead-subheading {
     padding:0px;
     margin:0px;
     position:fixed;
-    right:-130px;
+    right:-110px;
     top:450px;
     width:210px;
     z-index: 1100;
@@ -171,6 +171,29 @@ header.masthead .masthead-content .masthead-subheading {
 }
 
 #accent_arrow em {
+  font-style: normal;
+  color:#40A799;
+}
+
+#experiences {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: #7A84A1;
+}
+
+#experiences:hover {
+  background-color: #4F4D4D;
+}
+
+#experience_exp {
+  color: white;
+}
+
+#experience_exp em{
   font-style: normal;
   color:#40A799;
 }
