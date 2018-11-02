@@ -1,23 +1,9 @@
-@font-face { font-family: SFMono-Bold; src: url('SFMono-Bold.otf'); }
-@font-face { font-family: SFMono-BoldItalic; src: url('SFMono-BoldItalic.otf'); }
-@font-face { font-family: SFMono-Heavy; src: url('SFMono-Heavy.otf'); }
-@font-face { font-family: SFMono-HeavyItalic; src: url('SFMono-HeavyItalic.otf'); }
-@font-face { font-family: SFMono-Light; src: url('SFMono-Light.otf'); }
-@font-face { font-family: SFMono-LightItalic; src: url('SFMono-LightItalic.otf'); }
-@font-face { font-family: SFMono-Medium; src: url('SFMono-Medium.otf'); }
-@font-face { font-family: SFMono-MediumItalic; src: url('SFMono-MediumItalic.otf'); }
 @font-face { font-family: SFMono-Regular; src: url('SFMono-Regular.otf'); }
-@font-face { font-family: SFMono-RegularItalic; src: url('SFMono-RegularItalic.otf'); }
-@font-face { font-family: SFMono-Semibold; src: url('SFMono-Semibold.otf'); }
-@font-face { font-family: SFMono-SemiboldItalic; src: url('SFMono-SemiboldItalic.otf'); }
-
 
 body {
   font-family: 'SFMono-Regular';
   background-color: #09182E;
 }
-
-
 
 h1,
 h2,
