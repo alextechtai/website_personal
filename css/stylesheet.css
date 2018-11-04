@@ -130,7 +130,7 @@ header.masthead .masthead-content .masthead-subheading {
     margin:0px;
     position:fixed;
     right:-110px;
-    top:450px;
+    bottom:0;
     width:210px;
     z-index: 1100;
 }
@@ -146,14 +146,14 @@ header.masthead .masthead-content .masthead-subheading {
   text-orientation: mixed;
 }
 
-
-.sticky-container_l{
+.sticky-container_l {
   position: fixed;
-  top: 600px;
+  bottom: 0;
   left: -30px;
   padding: 0;
   list-style: none;
   z-index: 99;
+
 }
 
 .sticky_l li img{
@@ -162,7 +162,6 @@ header.masthead .masthead-content .masthead-subheading {
   max-width:40px;
   padding: 3px;
   filter: brightness(0) invert(1);
-
 }
 
 .sticky_l li p{
