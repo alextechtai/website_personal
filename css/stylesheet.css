@@ -196,3 +196,10 @@ header.masthead .masthead-content .masthead-subheading {
   font-style: normal;
   color:#40A799;
 }
+
+#centerDiv {
+  margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
